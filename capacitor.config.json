@@ -1,0 +1,9 @@
+
+{
+  "appId": "com.verti.app",
+  "appName": "VERTİ",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
